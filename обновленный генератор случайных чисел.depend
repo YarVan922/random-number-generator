@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680781253 source:d:\ВАЖНОЕ_Иван\УЧЕБА\проекты\случайные числа в it сфере\project\обновленный генератор случайных чисел\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+
